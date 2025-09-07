@@ -1,6 +1,6 @@
 # SubTaker - Subdomain Enumeration Toolkit
 
-![SubTaker](assets/shield.png)
+![SubTaker](SubTaker.png)
 
 ## Overview
 
